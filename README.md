@@ -1,16 +1,16 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7BB&center=true&vCenter=true&width=1000&lines=Wenn%E2%80%99s+l%C3%A4uft%2C+lass+es+laufen!;In+der+Programmierung+gibt+es+keine+Fehler%2C+nur+unentdeckte+Features.;Code%2C+der+funktioniert%2C+wird+nicht+angefasst." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7BB&center=true&vCenter=true&width=1000&lines=If+it+works%2C+let+it+run!;In+programming%2C+there+are+no+errors%2C+only+undiscovered+features.;Code+that+works%2C+doesn't+get+touched." alt="Typing SVG" /></a>
 
-<h1 align="center">👋 Hey, Ich bin @JearnLava</h1>
-<h3 align="center">Ich bin ein Deutscher FrontEnd Entwickler!</h3>
+<h1 align="center">👋 Hey, I’m @JearnLava</h1>
+<h3 align="center">I'm a German Front-End Developer!</h3>
 
-## Dinge über mich:
-- 🌍 **Ich bin leidenschaftlicher Minecraft-Entwickler** und liebe es, das Spielerlebnis durch meine Plugins zu verbessern.
-- 🎮 **Ich entwickle ab und zu Spiele in Unity.**
-- 💻 **Technologien, die mich faszinieren**: React, JavaScript, Node.js, und alles, was das Web zu bieten hat!
-- 📚 **Ich lerne ständig** neue Dinge, besonders im Bereich Front-End-Entwicklung und UI/UX-Design.
-- 🤝 **Ich liebe es, an Open-Source-Projekten mitzuwirken** und meine Kenntnisse mit der Community zu teilen.
-- 🧩 **Ich liebe Herausforderungen**, vor allem bei der Fehlersuche und der Lösung von Problemen im Code.
-- 💡 **Meine Philosophie beim Programmieren**: „Wenn’s läuft, lass es laufen!“
+## Things About Me:
+- 🌍 **I’m a passionate Minecraft developer** and love enhancing the gameplay experience through my plugins.
+- 🎮 **I occasionally develop games in Unity.**
+- 💻 **Technologies that fascinate me**: React, JavaScript, Node.js, and everything the web has to offer!
+- 📚 **I'm constantly learning** new things, especially in front-end development and UI/UX design.
+- 🤝 **I love contributing to open-source projects** and sharing my knowledge with the community.
+- 🧩 **I love challenges**, especially in debugging and solving problems in code.
+- 💡 **My programming philosophy**: "If it works, let it run!"
 
 ## 💻 Tech Stack:
 
@@ -32,8 +32,8 @@
 ###
 
 ### ⚡ **Fun Facts:**
-- **„Wenn’s läuft, lass es laufen!** – Mein Motto beim Programmieren, wenn der Code funktioniert, warum noch etwas ändern?“
-- **„Ich habe bereits viele Minecraft-Netzwerke entwickelt, aber nie öffentlich zugänglich gemacht.“** – Ich bin ein großer Minecraft-Fan und habe bereits zahlreiche Netzwerke für eigene Projekte aufgebaut, die jedoch nie öffentlich wurden.
+- **"If it works, let it run!"** – My motto in programming: if the code works, why change it?
+- **"I have developed many Minecraft networks, but never made them publicly accessible."** – I'm a huge Minecraft fan and have built several networks for personal projects, though they were never released to the public.
 
 ### 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=JearnLava&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=JearnLava&theme=cobalt&hide_border=false)
