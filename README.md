@@ -5,7 +5,7 @@
 
 ## Dinge über mich:
 - 🌍 **Ich bin leidenschaftlicher Minecraft-Entwickler** und liebe es, das Spielerlebnis durch meine Plugins zu verbessern.
-- 🎮 **Ich entwickle ab und zu Spiele in Unity.
+- 🎮 **Ich entwickle ab und zu Spiele in Unity.**
 - 💻 **Technologien, die mich faszinieren**: React, JavaScript, Node.js, und alles, was das Web zu bieten hat!
 - 📚 **Ich lerne ständig** neue Dinge, besonders im Bereich Front-End-Entwicklung und UI/UX-Design.
 - 🤝 **Ich liebe es, an Open-Source-Projekten mitzuwirken** und meine Kenntnisse mit der Community zu teilen.
