@@ -6,11 +6,17 @@
 ## Things About Me:
 - 🌍 **I’m a passionate Minecraft developer** and love enhancing the gameplay experience through my plugins.
 - 🎮 **I occasionally develop games in Unity.**
+- 🌲 **Outside of coding, I enjoy outdoor adventures** like bushcraft, survival, and exploring nature. 🏕️🔥
 - 💻 **Technologies that fascinate me**: React, JavaScript, Node.js, and everything the web has to offer!
 - 📚 **I'm constantly learning** new things, especially in front-end development and UI/UX design.
 - 🤝 **I love contributing to open-source projects** and sharing my knowledge with the community.
 - 🧩 **I love challenges**, especially in debugging and solving problems in code.
 - 💡 **My programming philosophy**: "If it works, let it run!"
+
+### ⚡ **Fun Facts:**
+- **"If it works, let it run!"** – My motto in programming: if the code works, why change it?
+- 🌳 **When I'm not debugging code, I'm building a shelter in the forest** or enjoying a campfire.
+- **"I have developed many Minecraft networks, but never made them publicly accessible."** – I'm a huge Minecraft fan and have built several networks for personal projects, though they were never released to the public.
 
 ## 💻 Tech Stack:
 
@@ -30,10 +36,6 @@
 </div>
 
 ###
-
-### ⚡ **Fun Facts:**
-- **"If it works, let it run!"** – My motto in programming: if the code works, why change it?
-- **"I have developed many Minecraft networks, but never made them publicly accessible."** – I'm a huge Minecraft fan and have built several networks for personal projects, though they were never released to the public.
 
 ### 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=JearnLava&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=JearnLava&theme=cobalt&hide_border=false)
